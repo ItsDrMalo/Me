@@ -1,7 +1,6 @@
 # Me
 ### I am the **CEO** and **Founder** of **Cursed Programming** and **LTD104 Production**
 ##
-##
 **Name:** Dr Malo
 ##
 **Language/s:** Italian and English
